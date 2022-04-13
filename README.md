@@ -7,6 +7,15 @@
    
    This model was trained for 15000 steps with base learning_rate of 0.0079 and warmup_learning_rate of 0.001
    
-   The loss and accuracy metrics are given below:
+   <p>The loss and accuracy metrics are given below:</p>
    
+   <img align="center" src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/metrics-1.png" width="90%" height="90%"/>
+   
+   <p>The validation images are given below:</p>
+   <div align='center'>
+   <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-1.png" width="800px" height="500px"/>
+   <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-2.png" width="700px" height="400px"/>
+   <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-3.png" width="700px" height="400px"/>
+   <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-4.png" width="800px" height="400px"/>
+   </div>
  
