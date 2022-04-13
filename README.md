@@ -15,7 +15,7 @@
    <div align='center'>
    <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-1.png" width="800px" height="500px"/>
    <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-2.png" width="700px" height="400px"/>
-   <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-3.png" width="700px" height="400px"/>
+   <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-3.png" width="600px" height="300px"/>
    <img src="https://github.com/r-krish/fruitdetector-TFObjectDetAPI/blob/main/extras/val-4.png" width="800px" height="400px"/>
    </div>
  
