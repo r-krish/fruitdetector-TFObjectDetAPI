@@ -9,6 +9,4 @@
    
    The loss and accuracy metrics are given below:
    
-   
-   ![metrics](https://drive.google.com/file/d/1t6Ha5YwOdCvv2QXi9arm5Bp-uPcj8eht/view?usp=sharing)
-   <img src="https://drive.google.com/file/d/1t6Ha5YwOdCvv2QXi9arm5Bp-uPcj8eht/view?usp=sharing" width="50%" height="50%">
+ 
